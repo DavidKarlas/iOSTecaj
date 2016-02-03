@@ -1,0 +1,11 @@
+Za kaj se uporabljajo naslednji frameworki: CloudKit, CoreTelephony, HomeKit, PassKit?
+-CloudKit: Avtentikacija ter shranjevanje podatkov v oblaku
+-CoreTelephony: Telefonska števila ter podatki o ponudniku storitev
+-HomeKit: Upravljanje raznih naprav po hiši.
+-PassKit: Upravljanje z Passbookom se pravi vstopnice, darilne kartice, kartice zvestobe... Ter plačevanje blaga in storitev z ApplePay
+
+Kakšna je razlika med Simulator-jem in Emulatorjem?
+-Simulator se ne trudi poustvariti sistema 100% emulator pa. V praksi to večinoma pomeni, da laufa x86 namesto emulacije ARM processorja...
+
+Zakaj se uporabljajo animacije?
+-Da uporabnik ne izgubi fokusa oz. da mu povemo, da čakamo podatke oz. jih obelujemo
